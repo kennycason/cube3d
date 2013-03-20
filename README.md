@@ -13,18 +13,18 @@ To run a demo just run the following command
 <table>
     <tr>
         <td>
-            <img src="https://github.com/kennycason/cube3d/blob/master/images/Screenshot-Cubes3D-1.png" width="400px"/>
+            <img src="https://raw.github.com/kennycason/cube3d/master/images/Screenshot-Cubes3D-1.png" width="400px"/>
         </td>
         <td>
-            <img src="https://github.com/kennycason/cube3d/blob/master/images/RenderPolygons.png" width="400px"/>
+            <img src="https://raw.github.com/kennycason/cube3d/master/images/RenderPolygons.png" width="400px"/>
         </td>
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/kennycason/cube3d/blob/master/images/Screenshot-Cubes3D-3.png" width="400px"/>
+            <img src="https://raw.github.com/kennycason/cube3d/master/images/Screenshot-Cubes3D-3.png" width="400px"/>
         </td>
         <td>
-            <img src="https://github.com/kennycason/cube3d/blob/master/images/Screenshot-Cubes3D-4.png"/>
+            <img src="https://raw.github.com/kennycason/cube3d/master/images/Screenshot-Cubes3D-4.png"/>
         </td>
     </tr>
 </table>
